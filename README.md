@@ -1,0 +1,2 @@
+# SSABASIC
+Singular Spectrum Analysis
